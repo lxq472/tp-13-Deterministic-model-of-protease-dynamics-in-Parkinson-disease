@@ -4,6 +4,12 @@ This project implements and extends the deterministic model of α-synuclein aggr
 
 **Sneppen et al., *Modeling proteasome dynamics in Parkinson’s disease*, Phys. Biol. 6 (2009)**
 
+developed as part of the MSc course:
+
+**Physics of Molecular Diseases**  
+Niels Bohr Institute — University of Copenhagen (Prof. Ala Trusina)
+
+
 ---
 
 # 📌 Overview
