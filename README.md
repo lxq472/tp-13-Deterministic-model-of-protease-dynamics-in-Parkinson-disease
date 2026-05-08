@@ -214,6 +214,5 @@ Metrics:
 ---
 
 # 📚 References
-
-Sneppen, K. et al. (2009), "Modeling proteasome dynamics in Parkinson’s disease", Physical Biology 6, 036005
-Prof. Ala Trusina, NFYK14009U Physics of Molecular Diseases, Niels Bohr Institute, University of Copenhagen
+* Prof. Ala Trusina, NFYK14009U Physics of Molecular Diseases, Niels Bohr Institute, University of Copenhagen
+* Sneppen, K. et al. (2009), "Modeling proteasome dynamics in Parkinson’s disease", Physical Biology 6, 036005
